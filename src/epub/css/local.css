@@ -4,8 +4,8 @@
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	font-variant: small-caps;
-	text-align: center;
 	line-height: 1.8;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
