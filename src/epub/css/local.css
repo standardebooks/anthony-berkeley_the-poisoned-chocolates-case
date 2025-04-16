@@ -48,3 +48,7 @@ table thead{
 #chapter-11 blockquote header p{
 	font-variant: small-caps;
 }
+
+#chapter-13 [epub|type~="se:name.publication.play"]{
+	font-style: normal;
+}
