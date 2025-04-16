@@ -44,3 +44,7 @@ table{
 table thead{
 	font-variant: small-caps;
 }
+
+#chapter-11 blockquote header p{
+	font-variant: small-caps;
+}
