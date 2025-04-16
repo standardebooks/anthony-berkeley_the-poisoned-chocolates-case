@@ -42,16 +42,21 @@
 		<meta property="term" refines="#subject-4">sh2008109487</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:is-a-collection">true</meta>
+		<meta id="collection-1" property="belongs-to-collection">Roger Sheringham</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">5</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<dc:description id="description">A club of amateur sleuths attempts to solve a crime whose solution has eluded Scotland Yard.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The noted amateur detective &lt;a href="https://standardebooks.org/collections/roger-sheringham"&gt;Roger Sheringham&lt;/a&gt; has formed his own private club of “criminologists.” As a challenge for this august group, he proposes that they individually attempt to solve a murder that has baffled Scotland Yard: the wealthy businessman Graham Bendix gave a box of chocolates to his wife. They turned out to be poisoned; eating them killed her. But Bendix only got those chocolates by chance at his club from Sir Eustace Pennefather, a notorious man about town.&lt;/p&gt;
+			&lt;p&gt;Rather than the six members of the Crimes Circle converging on a single criminal, each one arrives at a completely different solution to the same murder.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-berkeley"&gt;Anthony Berkeley’s&lt;/a&gt; artifice of forming a club for his amateur detectives in this mystery anticipated in real life the foundation the following year of the famous Detection Club, of which he was a founding member. &lt;i&gt;The Poisoned Chocolates Case&lt;/i&gt; is considered one of the classics of the Golden Age of detective fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75476</dc:source>
 		<dc:source>https://archive.org/details/isbn_9781780020167</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Poisoned_Chocolates_Case</meta>
@@ -61,10 +66,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Berkeley_Cox</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79140991</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Meri Genetz</dc:contributor>
+		<meta property="file-as" refines="#artist">Genetz, Meri</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n2021063586</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Raiter, Brian</meta>
