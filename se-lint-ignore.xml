@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>The same speaker continue in the next paragaph.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-15.xhtml">
 		<ignore>
 			<code>t-017</code>
