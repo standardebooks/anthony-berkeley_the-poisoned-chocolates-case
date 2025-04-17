@@ -36,14 +36,26 @@ section[epub|type~="dedication"] > *{
 	font-size: larger;
 }
 
+/* Table rules - see ch. 17 */
 table{
+	font-size: .8em;
 	margin: 1em auto;
 	text-align: initial;
 }
 
-table thead{
-	font-variant: small-caps;
+td + td{
+	padding-left: .5em;
 }
+
+thead{
+	font-variant: small-caps;
+	text-align: left;
+}
+
+th{
+	font-weight: normal;
+}
+/* end table rules */
 
 #chapter-11 blockquote header p{
 	font-variant: small-caps;
