@@ -43,17 +43,15 @@ table{
 	text-align: initial;
 }
 
-td + td{
+td + td,
+th + th{
 	padding-left: .5em;
 }
 
-thead{
-	font-variant: small-caps;
-	text-align: left;
-}
-
 th{
+	font-variant: small-caps;
 	font-weight: normal;
+	text-align: initial;
 }
 /* end table rules */
 
