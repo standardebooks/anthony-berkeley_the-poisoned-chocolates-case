@@ -38,9 +38,12 @@ section[epub|type~="dedication"] > *{
 
 /* Table rules - see ch. 17 */
 table{
-	font-size: .8em;
 	margin: 1em auto;
 	text-align: initial;
+}
+
+td{
+	vertical-align: top;
 }
 
 td + td,
@@ -52,6 +55,7 @@ th{
 	font-variant: small-caps;
 	font-weight: normal;
 	text-align: initial;
+	vertical-align: bottom;
 }
 /* end table rules */
 

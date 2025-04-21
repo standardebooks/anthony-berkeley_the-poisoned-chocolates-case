@@ -12,10 +12,4 @@
 			<reason>Punctuation (exclamation mark) belongs to the title in italics.</reason>
 		</ignore>
 	</file>
-	<file path="local.css">
-		<ignore>
-			<code>c-027</code>
-			<reason>Wide table requires smaller font size for legibility.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
