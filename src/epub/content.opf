@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-04-21T03:39:39.074613Z</dc:date>
+		<meta property="dcterms:modified">2025-04-21T03:39:39.074613Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,15 +50,15 @@
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A club of amateur sleuths attempts to solve a crime whose solution has eluded Scotland Yard.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The noted amateur detective &lt;a href="https://standardebooks.org/collections/roger-sheringham"&gt;Roger Sheringham&lt;/a&gt; has formed his own private club of “criminologists.” As a challenge for this august group, he proposes that they individually attempt to solve a murder that has baffled Scotland Yard: the wealthy businessman Graham Bendix gave a box of chocolates to his wife. They turned out to be poisoned; eating them killed her. But Bendix only got those chocolates by chance at his club from Sir Eustace Pennefather, a notorious man about town.&lt;/p&gt;
+			&lt;p&gt;The noted amateur detective &lt;a href="https://standardebooks.org/collections/roger-sheringham"&gt;Roger Sheringham&lt;/a&gt; has formed his own private club of “criminologists.” As a challenge for this august group, he proposes that they individually attempt to solve a murder that has baffled Scotland Yard: the death of wealthy businessman Graham Bendix’s wife after he presented her a box of poisoned chocolates. The mystery lies in the fact that But Bendix only got those chocolates by chance at his club from Sir Eustace Pennefather, a notorious man about town.&lt;/p&gt;
 			&lt;p&gt;Rather than the six members of the Crimes Circle converging on a single criminal, each one arrives at a completely different solution to the same murder.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-berkeley"&gt;Anthony Berkeley’s&lt;/a&gt; artifice of forming a club for his amateur detectives in this mystery anticipated in real life the foundation the following year of the famous Detection Club, of which he was a founding member. &lt;i&gt;The Poisoned Chocolates Case&lt;/i&gt; is considered one of the classics of the Golden Age of detective fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75476</dc:source>
 		<dc:source>https://archive.org/details/isbn_9781780020167</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">67507</meta>
+		<meta property="se:reading-ease.flesch">64.71</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Poisoned_Chocolates_Case</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-berkeley_the-poisoned-chocolates-case</meta>
 		<dc:creator id="author">Anthony Berkeley</dc:creator>
@@ -83,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
