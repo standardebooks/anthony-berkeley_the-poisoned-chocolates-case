@@ -49,6 +49,9 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta id="collection-3" property="belongs-to-collection">The Crime Writers’ Association Top 100 Crime Novels of All Time</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">41</meta>
 		<dc:description id="description">A club of amateur sleuths attempts to solve a crime whose solution has eluded Scotland Yard.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The noted amateur detective &lt;a href="https://standardebooks.org/collections/roger-sheringham"&gt;Roger Sheringham&lt;/a&gt; has formed his own private club of “criminologists.” As a challenge for this august group, he proposes that they individually attempt to solve a murder that has baffled Scotland Yard: the death of wealthy businessman Graham Bendix’s wife after he presented her a box of poisoned chocolates. The mystery lies in the fact that Bendix only got those chocolates by chance at his club from Sir Eustace Pennefather, a notorious man about town.&lt;/p&gt;
