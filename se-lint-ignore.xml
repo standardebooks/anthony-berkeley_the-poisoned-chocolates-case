@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="t-003">
+			<line>20</line>
 			<reason>The same speaker continue in the next paragaph.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-15.xhtml">
 		<ignore code="t-017">
+			<line>39</line>
 			<reason>Punctuation (exclamation mark) belongs to the title in italics.</reason>
 		</ignore>
 	</file>
